@@ -1974,6 +1974,8 @@ font-size: 25px;
 }
 .pre-header1 h2 {
     padding-left: 120px;
+    text-align: center;
+    padding-top: 2%;
 }
 .pre-header1 h3 {
     padding-left: 170px;
@@ -2144,13 +2146,15 @@ button[type="submit"]:hover {
     }
 
     .pre-header1 a {
-            padding-left: 35px;
+            padding-left: 40px;
         }
         .pre-header1 h2 {
-            padding-left: 90px;
+            padding-left: 110px;
+            text-align: center;
+            padding-top: 2%;
         }
         .pre-header1 h3 {
-            padding-left: 140px;
+            padding-left: 160px;
         }
 
 
@@ -2191,13 +2195,13 @@ button[type="submit"]:hover {
     }
 
     .pre-header1 a {
-        padding-left: 20px;
+        padding-left: 30px;
     }
     .pre-header1 h2 {
-        padding-left: 50px;
+        padding-left: 80px;
     }
     .pre-header1 h3 {
-        padding-left: 100px;
+        padding-left: 130px;
     }
 
 
