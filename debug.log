@@ -34,3 +34,6 @@
 [1026/181645.165:ERROR:crash_report_database_win.cc(609)] CreateDirectory C:\ProgramData\Safe Family\Logs: Zugriff verweigert (0x5)
 [1026/181645.173:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Die Pipe wurde beendet. (0x6D)
 [1026/181645.175:ERROR:crash_report_database_win.cc(609)] CreateDirectory C:\ProgramData\Safe Family\Logs: Zugriff verweigert (0x5)
+[1026/223402.112:ERROR:crash_report_database_win.cc(609)] CreateDirectory C:\ProgramData\Safe Family\Logs: Zugriff verweigert (0x5)
+[1026/223402.121:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Die Pipe wurde beendet. (0x6D)
+[1026/223402.122:ERROR:crash_report_database_win.cc(609)] CreateDirectory C:\ProgramData\Safe Family\Logs: Zugriff verweigert (0x5)
