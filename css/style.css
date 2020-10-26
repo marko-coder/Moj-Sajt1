@@ -1390,6 +1390,7 @@ nav {
 
     nav :checked~.navigacija {
         bottom: 0;
+        margin-bottom: 50%;
     }
 
     nav :checked~.icon-burger .line:nth-child(1) {
@@ -1651,6 +1652,7 @@ nav {
 
     nav :checked~.navigacija {
         bottom: 0;
+        margin-bottom: 80%;
     }
 
     nav :checked~.icon-burger .line:nth-child(1) {
@@ -1913,6 +1915,7 @@ nav {
     }
     nav :checked ~ .navigacija {
         bottom: 0;
+        margin-bottom: 100%;
     }
     nav :checked ~ .icon-burger .line:nth-child(1) {
 
@@ -2157,7 +2160,11 @@ button[type="submit"]:hover {
             padding-left: 160px;
         }
 
-
+ nav :checked~.navigacija {
+     bottom: 0;
+     margin-bottom: 100%;
+     
+ }
 
 
 
@@ -2205,7 +2212,10 @@ button[type="submit"]:hover {
     }
 
 
-
+ nav :checked~.navigacija {
+     bottom: 0;
+     margin-bottom: 90%;
+ }
 
 
 
@@ -2259,5 +2269,11 @@ button[type="submit"]:hover {
     text-align: center;
     padding-left: 50px;
 }
+
+
+ nav :checked~.navigacija {
+     bottom: 0;
+     margin-bottom: 90%;
+ }
 
 }
